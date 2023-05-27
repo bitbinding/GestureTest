@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GestureTest", "GestureTest\GestureTest.vcxproj", "{C4DAE554-8E15-4F74-A7D7-8604877DC7DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4DAE554-8E15-4F74-A7D7-8604877DC7DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4DAE554-8E15-4F74-A7D7-8604877DC7DD}.Debug|Win32.Build.0 = Debug|Win32
+		{C4DAE554-8E15-4F74-A7D7-8604877DC7DD}.Release|Win32.ActiveCfg = Release|Win32
+		{C4DAE554-8E15-4F74-A7D7-8604877DC7DD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
